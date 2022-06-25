@@ -1,0 +1,15 @@
+.title{
+    background-image: linear-gradient(225deg,#d61b3c, #13294b);
+    color: white;
+}
+.thead{
+    background-color: #13294b;
+    color: white;
+}
+.btn{
+    background-color: #13294b;
+    color: white;
+}
+.btn:hover{
+    background-color: #0d3066;
+}
